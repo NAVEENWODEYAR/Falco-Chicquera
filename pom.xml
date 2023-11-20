@@ -49,6 +49,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>Falcon_App</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
